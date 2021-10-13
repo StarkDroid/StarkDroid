@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Trishiraj</h1>
 <h3 align="center">Android Developer | CorvusOS Core Dev | Full Stack Web Developer | UI Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=starkdroid&label=Profile%20views&color=4400ff&style=flat" alt="starkdroid" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starkdroid&show_icons=true&theme=dark&title_color=4285f4&text_color=ffffff&bg_color=2d2d2d&locale=en" alt="starkdroid" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starkdroid" alt="starkdroid" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkdroid&" alt="starkdroid" /></p>
 
 - 🔭 I’m currently working on [CorvusOS](https://github.com/Corvus-R)
 
@@ -38,7 +38,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starkdroid&show_icons=true&locale=en&layout=compact" alt="starkdroid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starkdroid&show_icons=true&theme=dark&title_color=4285f4&text_color=ffffff&bg_color=2d2d2d&locale=en" alt="starkdroid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkdroid&" alt="starkdroid" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=starkdroid&label=Profile%20views&color=4400ff&style=flat" alt="starkdroid" /> </p>
