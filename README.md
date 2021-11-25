@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trishiraj</h1>
 <h3 align="center">Android Developer | CorvusOS Core Dev | Full Stack Web Developer | UI Designer</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starkdroid&show_icons=true&theme=dark&title_color=4285f4&text_color=ffffff&bg_color=2d2d2d&locale=en" alt="starkdroid" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkdroid&" alt="starkdroid" /></p>
 
 - 🔭 I’m currently working on [CorvusOS](https://github.com/Corvus-R)
