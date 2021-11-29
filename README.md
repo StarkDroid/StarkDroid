@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anything and everything Android and Web**
 
-- 📫 How to reach me **trishiraj@corvusrom.com**
+- 📫 How to reach me **trishiraj.247@gmail.com**
 
 - 📄 Know about my experiences [http://trishiraj.me/](http://trishiraj.me/)
 
