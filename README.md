@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Trishiraj</h1>
-<h3 align="center">Android Developer | CorvusOS Core Dev | Full Stack Web Developer | UI Designer</h3>
+<h3 align="center">Android Engineer | Custom firmware developer | Web Artisan | UI Designer</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkdroid&" alt="starkdroid" /></p>
 
-- 🔭 I’m currently working on [CorvusOS](https://github.com/Corvus-R)
+- 🔭 I’m currently working on [Solaris](https://www.solarisgroup.com/en/)
 
-- 🌱 I’m currently learning **Flutter, VueJS**
+- 🌱 Topics that interest me are Android, Web, Automation, Design and Games
 
-- 👯 Currently collaborating with [DoubtConnect](https://doubtconnect.in/)
+- 👯 Currently collaborating with [GDG Chennai]([https://doubtconnect.in/](https://gdgchennai.in/))
 
 - 👨‍💻 All of my projects are available at [https://github.com/StarkDroid](https://github.com/StarkDroid)
 
-- 📝 I regularly post videos on [https://www.youtube.com/channel/UCoCEUnIIPFbZQNVYuFRIBXQ](https://www.youtube.com/channel/UCoCEUnIIPFbZQNVYuFRIBXQ)
+- 📝 I regularly post videos on [Youtube](https://www.youtube.com/channel/UCoCEUnIIPFbZQNVYuFRIBXQ) and Instagram [Instagram](https://www.instagram.com/trishiraj.exe/)
 
-- 💬 Ask me about **Anything and everything Android and Web**
+- 💬 Ask me about **Anything that's Android!**
 
-- 📫 How to reach me **trishiraj.247@gmail.com**
+- 📫 Reach me via mail **trishiraj.247@gmail.com** or my Socials
 
-- 📄 Know about my experiences [http://trishiraj.me/](http://trishiraj.me/)
+- 📄 Know more about me here: [http://trishiraj.me/](http://trishiraj.me/)
 
-- ⚡ My Hobbies **Coding | Editing | Designing | Hogging on food**
+- ⚡ My Hobbies **Mini projects | Content Creation | Motorcycling | Hogging on food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
